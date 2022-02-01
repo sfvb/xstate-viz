@@ -1,5 +1,11 @@
 # XState Visualizer
 
+## 0.6.1
+
+### Patch Changes
+
+- [#343](https://github.com/statelyai/xstate-viz/pull/343) [`632f950`](https://github.com/statelyai/xstate-viz/commit/632f950c6d0d1989a263d2cb0f5cf0483950e8f2) Thanks [@Andarist](https://github.com/Andarist)! - Fixed panning/dragging interations (the ones that include pressing pointer down) in FireFox.
+
 ## 0.6.0
 
 ### Minor Changes
